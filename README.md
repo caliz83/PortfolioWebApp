@@ -26,3 +26,6 @@ Add your unique styling and make it your own.
 
     Contact Me Page
         Contact form with Name, Email, Subject, and Message fields. Submit button.
+
+
+Link to Figma: https://www.figma.com/file/SGVJjr37o9zlesoL5iG64U/Untitled?type=design&node-id=0-1&mode=design&t=eGPI5SyNSQCTKTqn-0
